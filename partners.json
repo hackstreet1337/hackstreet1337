@@ -1,0 +1,22 @@
+[
+    {
+        "name" : "Codelatte",
+        "link" : "https://codelatte.id/",
+        "image": "./assets/img/partner/codelatte.png"
+    },
+    {
+        "name" : "Maxteroit",
+        "link" : "https://maxteroit.com/",
+        "image": "./assets/img/partner/maxteroit.png"
+    },
+    {
+        "name" : "TegalSec",
+        "link" : "https://tegalsec.org",
+        "image": "./assets/img/partner/tegalsec.png"
+    },
+    {
+        "name" : "Suka Server",
+        "link" : "https://sukaserver.com/",
+        "image": "./assets/img/partner/sukaserver.svg"
+    }
+]
