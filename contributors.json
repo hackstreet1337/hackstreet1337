@@ -1,0 +1,32 @@
+[
+    {
+    "name": "Akas Wisnu Aji",
+    "bio" : "Penetration Tester",
+    "link" : "https://hackstreet.id/",
+    "image" : "./assets/img/contributor/ganteng.jpeg"
+    },
+    {
+        "name": "Akbar Kustirama",
+        "bio" : "ITSec Enthusiast",
+        "link" : "https://kustirama.id/",
+        "image" : "./assets/img/contributor/abay.jpg"
+    },
+    {
+        "name": "Adi Kurniawan",
+        "bio" : "IT Enthusiast",
+        "link" : "https://lowthink.my.id",
+        "image" : "./assets/img/contributor/adi.jpeg"
+    },
+    {
+        "name": "Reza Febriansyah",
+        "bio" : "UI/UX Designer",
+        "link" : "https://hackstreet.id/",
+        "image" : "./assets/img/contributor/reza.png"
+    },
+    {
+        "name": "Yudha Ard",
+        "bio" : "Bug Hunter",
+        "link" : "https://hackstreet.id/",
+        "image" : "./assets/img/contributor/yudha.png"
+    }
+]
