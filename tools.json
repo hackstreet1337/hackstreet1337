@@ -1,7 +1,17 @@
 [
-{
-  "name": "Subdomain Enumeration",
-  "category": "Information Gathering",
-  "status": 1
-}
+  {
+    "name": "Subdomain Enumeration",
+    "category": "Information Gathering",
+    "status": 1
+  },
+  {
+    "name": "Cross Site Scripting",
+    "category": "Exploitation",
+    "status": 0
+  },
+  {
+    "name": "SQL Injection",
+    "category": "Exploitation",
+    "status": 0
+  }
 ]
