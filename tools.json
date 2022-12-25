@@ -10,8 +10,43 @@
     "status": 0
   },
   {
-    "name": "SQL Injection",
+    "name": "Reverse Shell",
     "category": "Exploitation",
+    "status": 0
+  },
+  {
+    "name": "Base64",
+    "category": "Encode / Decode",
+    "status": 0
+  },
+  {
+    "name": "Exif Tools",
+    "category": "Files",
+    "status": 0
+  },
+  {
+    "name": "SEO Checker",
+    "category": "Web Tools",
+    "status": 0
+  },
+  {
+    "name": "Javascript Beautifier",
+    "category": "Code Helper",
+    "status": 0
+  },
+  {
+    "name": "Tiktok Downloader",
+    "category": "Social Media",
+    "status": 0
+  },
+  {
+    "name": "Instagram Downloader",
+    "category": "Social Media",
+    "status": 0
+  },
+  {
+    "name": "Facebook Downloader",
+    "category": "Social Media",
     "status": 0
   }
 ]
