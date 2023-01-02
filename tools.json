@@ -5,48 +5,23 @@
     "status": 1
   },
   {
-    "name": "Cross Site Scripting",
-    "category": "Exploitation",
-    "status": 0
+    "name": "WaybackURL",
+    "category": "Information Gathering",
+    "status": 1
   },
   {
-    "name": "Reverse Shell",
+    "name": "Domain to IP",
+    "category": "Information Gathering",
+    "status": 1
+  },
+  {
+    "name": "[Reflected] XSS",
     "category": "Exploitation",
-    "status": 0
+    "status": 1
   },
   {
     "name": "Base64",
     "category": "Encode / Decode",
-    "status": 0
+    "status": 1
   },
-  {
-    "name": "Exif Tools",
-    "category": "Files",
-    "status": 0
-  },
-  {
-    "name": "SEO Checker",
-    "category": "Web Tools",
-    "status": 0
-  },
-  {
-    "name": "Javascript Beautifier",
-    "category": "Code Helper",
-    "status": 0
-  },
-  {
-    "name": "Tiktok Downloader",
-    "category": "Social Media",
-    "status": 0
-  },
-  {
-    "name": "Instagram Downloader",
-    "category": "Social Media",
-    "status": 0
-  },
-  {
-    "name": "Facebook Downloader",
-    "category": "Social Media",
-    "status": 0
-  }
 ]
