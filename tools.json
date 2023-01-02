@@ -23,5 +23,10 @@
     "name": "Base64",
     "category": "Encode / Decode",
     "status": 1
+  },
+  {
+    "name": "URLEncode",
+    "category": "Encode / Decode",
+    "status": 0
   }
 ]
